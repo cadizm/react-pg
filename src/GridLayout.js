@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Grid, Header, Image, Menu } from 'semantic-ui-react'
+import { Container, Grid, Image, Menu } from 'semantic-ui-react'
 
 const GridLayout = () => (
   <div>
